@@ -1,0 +1,7 @@
+metadata.json
+{
+  "name": "Block",
+  "symbol": "Shot",
+  "description": "Gorilla glue",
+  "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png"
+}
